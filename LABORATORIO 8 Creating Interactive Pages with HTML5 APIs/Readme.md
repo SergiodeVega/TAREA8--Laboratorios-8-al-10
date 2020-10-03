@@ -10,4 +10,4 @@
 
    3.3. En el tercer ejercicio añadimos funciones javascript para obtener y mostrar la geolocalización del usuario y la distancia al centro de conferencias.
 
-4. **Dificultades:** No he tenido complicaciones en seguir el laboratorio, pero aunque entiendo la funcionalidad, todavía no sería capaz de utilizarla por mí mismo en otra situación.
+4. **Dificultades:** No he tenido complicaciones en seguir el laboratorio.
